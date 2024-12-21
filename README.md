@@ -28,7 +28,7 @@ Whether it’s crafting compelling web apps or penning down my thoughts, writing
 (check it out! - https://medium.com/@TechAndCoffeeTales).  
 
 ### 📫 Connect with Me:  
-- **LinkedIn:** [www.linkedin.com/in/marwa-mohamed01](#)  
+- **LinkedIn:** www.linkedin.com/in/marwa-mohamed01
 - **Portfolio:** [under-construction](#)  
 - **Email:** [marwa.m7d@gmail.com](mailto:marwa.m7d@gmail.com)
 
