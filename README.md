@@ -1,6 +1,6 @@
 # 👩‍💻 Welcome to My GitHub Profile!  
 
-## Developer. Thinker. Maker.  
+## Developer. Writer. Innovater.  
 I’m a **full-stack developer** passionate about solving problems, telling stories through code, and empowering individuals and small businesses. When I’m not coding, you’ll likely find me writing - pouring thoughts into words is a hobby that keeps my creativity alive.  
 
 ## 🚀 About Me  
